@@ -2,7 +2,7 @@
   {
     "tokenMint": "2qo9ENba9xo34v8BmngAf81MvTXDB2WJ28pkjMyRFD55",
     "voteAccount": "CwSZ17woioM2bqEbaswZJYvx5pemN6t3shBcU6zqPHyG",
-    "share": 0.20250919162168568
+    "share": 0.20176170183903921
   },
   {
     "tokenMint": "EuFaBxFZgMbudozjRqr8WtTdJ4ZEG6pSM4WRkwGci3AX",
@@ -37,7 +37,7 @@
   {
     "tokenMint": "6WVm4j8oJbSqE7iYRDqyt92kFjTh9ev6wSzaYxcGFeps",
     "voteAccount": "GA2t11gJcmuZ4y7pShTzgYDkxVaJaVQJqkVUqojhPPsT",
-    "share": 0.05824654173089212
+    "share": 0.05801725056979591
   },
   {
     "tokenMint": "J4p2LZfLenRvPg7CLMcDEqpBybJv6JHiQh1fHhSkffnC",
@@ -82,7 +82,7 @@
   {
     "tokenMint": "aerWQojE1Zd44dxCLgzHfWentAuVEH5iBQoa6jRNWCT",
     "voteAccount": "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc",
-    "share": 0.0010520395672435172
+    "share": 0.0010478623139173649
   },
   {
     "tokenMint": "EiCoG6Y7DEQuSyLMi4NswvFjmm12D42eVHupNqnVW2Fx",
@@ -152,7 +152,7 @@
   {
     "tokenMint": "Cr6qADsuNfd9XVhXdTZ72tWhV5o27nnCcKN2SdpN2goz",
     "voteAccount": "EtMSc3MvcDXUr6ChK5GxyFVwTxYA3zqP5XzjE9jwKvSV",
-    "share": 0
+    "share": 0.00069688993083705
   },
   {
     "tokenMint": "DcFR9aAspKQs5sJnyTSP7NME6Xb8gtnxQhonkaq8Mpgo",
@@ -167,7 +167,7 @@
   {
     "tokenMint": "6jkxgdJ2JgTvECd7kQ6Vyy4ytB1cEdUogbDzKmoJEZ3H",
     "voteAccount": "86Sw9R6ynPmXnHfwUWinXtq1QoF2KHesfQQyZG5r8sXo",
-    "share": 0
+    "share": 0.0006973449292086967
   },
   {
     "tokenMint": "94pg71tkpWyjmnAHrpsrYeRNDf8WzDM6ZsbkLn5KWSzM",
@@ -182,7 +182,7 @@
   {
     "tokenMint": "CrrRb3xedUMKLrQKAGCNQdVPHNeVyf418RdkuHABSDGN",
     "voteAccount": "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ",
-    "share": 0.07125695118221671
+    "share": 0.043008784543593
   },
   {
     "tokenMint": "BcxxDH75xKeedbeJZEvs19d4xdVCwmADdmg71PYFwgxM",
@@ -227,27 +227,27 @@
   {
     "tokenMint": "HJXFYjkCrZdYKtat7QcK5bBsEzhAXR6YqTYxe3i8RLhv",
     "voteAccount": "6JfBwvcz5QUKQJ37BMKTLrf968DDJBtwoZLw19aHwFtQ",
-    "share": 0.026470297614992727
+    "share": 0.02636921277549184
   },
   {
     "tokenMint": "DGc23AkzdTybBXQhdQqnGBLbkstF8JcDQSGvhkXttAVb",
     "voteAccount": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM",
-    "share": 0.14482584443487476
+    "share": 0.155794312865506
   },
   {
     "tokenMint": "EVyUVdBveEmfApJvBQKgt5Ac8k8MenhoCjAuS3SkPtep",
     "voteAccount": "EfnywDKqArxK6N6FS9ctsuzNdxfx3pzfXEQE5EevQ1SV",
-    "share": 0.07386731821792888
+    "share": 0.07358653361835034
   },
   {
     "tokenMint": "AcpKf5NuZhgsfTyVrhyoPdZX37xR9W7AbRd8B797oMcd",
     "voteAccount": "xLabsqDpN9WHXEXSJXk1yhqh5H8BgcqiBP1CR6Mkjcb",
-    "share": 0.0008035163099815469
+    "share": 0.0008004498866406286
   },
   {
     "tokenMint": "8APRHtmWq5yEsPqi6csKHg3ijbsNjdKUxpYBCibCwu6f",
     "voteAccount": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
-    "share": 0.0017896179936880416
+    "share": 0.0017830075814004936
   },
   {
     "tokenMint": "BJo8Y9jEK8WPChe7ug3W8SwtHWe1YBD8e6bzTJiVbsSP",
@@ -297,7 +297,7 @@
   {
     "tokenMint": "6vY8XwCypQm9zj49cFQn3s3phQKYaKHuM6rxZRGL3ebY",
     "voteAccount": "mythxna3hpzXSbaseyR12vu5Vvym1HxS92eCgXLvY7w",
-    "share": 1.29554101589e-9
+    "share": 0
   },
   {
     "tokenMint": "5BMKrC1HsfwhB8JxD6PYw2AqEzJwGzhweGhJhHN3raei",
@@ -322,7 +322,7 @@
   {
     "tokenMint": "68QvQyVxAS8kjewSPrghQ4puVnYhvgznjhnXas9kgePM",
     "voteAccount": "5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ",
-    "share": 0.0330658182896696
+    "share": 0.03293667838988987
   },
   {
     "tokenMint": "oGeBTpJxwKYMArH4BEmKaXk9QGxTjEv5eMpv3eLczX1",
@@ -352,7 +352,7 @@
   {
     "tokenMint": "483mREfhwHQ7Ea6d2fLfrRMioMBhVVaGkKSaDGymWNBz",
     "voteAccount": "9ymU1ayh9mZVyDL4dUUtXKtX1wCaFNzZPGutLJgqzuC1",
-    "share": 0.003677271595842689
+    "share": 0.003651332089070897
   },
   {
     "tokenMint": "6fTLLn27DUKd1mtzkLxmgtq2bjNi5DQk3w4hhuNoLSob",
@@ -367,7 +367,7 @@
   {
     "tokenMint": "BZ3ZP4e26nN7LPf7byzjh68G26Up77PakUQnfh8KGH58",
     "voteAccount": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
-    "share": 0.1491824832841599
+    "share": 0.14900256728955022
   },
   {
     "tokenMint": "CYXtZLQAsz4GGrGWzQ5F3TmsK96KFcqev7o4QtXZFSTT",
@@ -377,12 +377,12 @@
   {
     "tokenMint": "FoYEqs9hmzcn1uoyJpfQhAeTUhgRVJwuQFwDa69BzoBb",
     "voteAccount": "76DafWkJ6pGK2hoD41HjrM4xTBhfKqrDYDazv13n5ir1",
-    "share": 0.0006577665310104771
+    "share": 0
   },
   {
     "tokenMint": "6uNey258tUHSAtAPMxWuGBX1qMPnmWSdTYnnJcychVnS",
     "voteAccount": "21wUViiyG1g47VZ39ZZsSkFX9nu6bkyfy6jryHGD2TUB",
-    "share": 0.0009109598748303817
+    "share": 0.0008409924817612602
   },
   {
     "tokenMint": "bJ7BtqvRhRESW9t8dpKNGR7osHhQ3DUkWnsoXv4edcR",
@@ -447,7 +447,7 @@
   {
     "tokenMint": "Es5dvr1hjxbFsaJ7GSjUs91AKGbAbBAJ1W5uWsbbhgae",
     "voteAccount": "AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG",
-    "share": 0.0016324724405250642
+    "share": 0.0016261318827570752
   },
   {
     "tokenMint": "BQU2rFYeCCEnh1PLapw58Dnbks8A9wvyVtsnY4fzxhza",
@@ -467,7 +467,7 @@
   {
     "tokenMint": "E1V2wGF66j9qhtFk7hEdnxbgmmHw9RYh2HDLPs3zUSLU",
     "voteAccount": "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR",
-    "share": 0.004732204561381393
+    "share": 0.004684306826822915
   },
   {
     "tokenMint": "CbKGK9btrtFV6PvdVP9PeskAVeRtac5GAFER1YQxa4ap",
@@ -487,7 +487,7 @@
   {
     "tokenMint": "7agi837UC4TZiSwGTUyh6DzuzXwdEFv5gSd8En24STey",
     "voteAccount": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
-    "share": 0.14637398725079867
+    "share": 0.13536863573850622
   },
   {
     "tokenMint": "DcAZxkCsAnfrXYzwL1rubAhUG8SWtid5pPfXWxVhNBwA",
@@ -497,7 +497,7 @@
   {
     "tokenMint": "6LR4y1Ynoj7KVQnVhX9JZWRVW1JWbrD7RiGTz3ARaYDY",
     "voteAccount": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x",
-    "share": 0.02909481755874835
+    "share": 0.027639658085042602
   },
   {
     "tokenMint": "GC2tpwhMAWEjbkhpQjSJMDiEsmdSa9d5jPNngZL9TvuU",
@@ -777,12 +777,12 @@
   {
     "tokenMint": "HG5Pc1wzwVPuvgWhky9zRmnDFLoBSqrCSRZ5zqXnUL2p",
     "voteAccount": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe",
-    "share": 0.0023415046821903614
+    "share": 0.002457028481426409
   },
   {
     "tokenMint": "C8Pk6eBfLuLcpxuVtutFCrRGzifzmpmRKDzn1n4arGN2",
     "voteAccount": "6oscGUEkXE8fyWoC4czRKbM1cuLkJNtgRsX1Un6w88Vf",
-    "share": 0.00036212715623293697
+    "share": 0.0003471365249597915
   },
   {
     "tokenMint": "F8n8bV9Qz3Di1j21JV6H6csBKBh45odBkNn1xoQ8Nacv",
@@ -847,7 +847,7 @@
   {
     "tokenMint": "3usXy7oTNAVcE49ckprNWJQDYrKM4m2KzCKGT7eP9A2X",
     "voteAccount": "novaoLcuVHSudkW3Cphuhiv82vspN5qzinGCtEbwQxz",
-    "share": 0.011401112167010117
+    "share": 0
   },
   {
     "tokenMint": "B9BKKDy9Cny1Qo5YJxcxbSCQANUjhemzuPkV9b3hjNmt",
@@ -877,7 +877,7 @@
   {
     "tokenMint": "6Ai9kNoefCBP3pLritAHQiStN2d5w69UsGvnBGtsYRn9",
     "voteAccount": "FahWJg2PkphJaMUUCzdYhXkD5NngUuuFRFD3YCE3BSwb",
-    "share": 0.01094884592802068
+    "share": 0.010908341603775785
   },
   {
     "tokenMint": "5wv7b4aRkYNXLwHhuQtbkFAf9C7mFrKuHESV9kkbdLSV",
@@ -947,7 +947,7 @@
   {
     "tokenMint": "XFgzSyTsN8Cs6BNz79jxrCuYUDftFpUL7nhMEKDKKyL",
     "voteAccount": "Va1idkzkB6LEmVFmxWbWU8Ao9qehC62Tjmf68L3uYKj",
-    "share": 0.0037010420147407866
+    "share": 0.0036863576667812703
   },
   {
     "tokenMint": "EhcQvzM98rsK5tKuaXghmrJKU84tbwDfeoE6jSHMsbHj",
@@ -962,12 +962,12 @@
   {
     "tokenMint": "8EZwprqG3HrZZK8sV3woGC96bGcBqXSzGeyNMmHwGLtY",
     "voteAccount": "EATzgj3KL3NAkaSKv8JFXPJahGueMbvTdVZj4zD9nQiV",
-    "share": 0.020293939881337132
+    "share": 0.015280813750132887
   },
   {
     "tokenMint": "AUonUEeCMQpZiAqcwhbEkmrUoB89UtKX1aEUgbeBSiZZ",
     "voteAccount": "fdvtuDvWJZ89Z7TmeLjCwxgoLcmoEWNxruV48DvJtfm",
-    "share": 0
+    "share": 0.00004782121949890167
   },
   {
     "tokenMint": "BtxP4cWWLgqSBRhYXkJM86M8fMzNSQNJYhbZqYUKLQpG",
@@ -1037,7 +1037,7 @@
   {
     "tokenMint": "3CQc8f4pdc7UNdKrRHcAYKmW9piCLphoXV1f4YBTNBdq",
     "voteAccount": "Lua298Woc4rgcswL64yfWAL4EW44FgBZeLsKforf6tJ",
-    "share": 0
+    "share": 0.04300860064531335
   },
   {
     "tokenMint": "B2MDBsShmrsgxirHvYve8JcqvikLxEyyxCoL8F7dwuTo",
@@ -1082,7 +1082,7 @@
   {
     "tokenMint": "8xQ2mmcfrBzUJmQ2yXYZQmGREuWh3CAhm2cZncg2C9S2",
     "voteAccount": "H1kyn75BFTXr8QRmToRRvuEEmYan5n6M5APyfhMLau3b",
-    "share": 0.0008023268144564888
+    "share": 0.0007993521307458663
   },
   {
     "tokenMint": "ADap54AosbJL3J8xWFiWMuzy5vUi3W7zqTqDcN7wBnxU",
@@ -1127,7 +1127,7 @@
   {
     "tokenMint": "435uFxhjK2MGoDMxTox2QjvGamZ2mRLKz5j6Bs8NYqQG",
     "voteAccount": "LNRmxHyXAzgBkgxDmb4ZefwLAnSv3fdsjPgjmThoa1T",
-    "share": 0
+    "share": 0.0006968935098344106
   },
   {
     "tokenMint": "4U4XiEZ6oiEL9kKa1V5uDNqsR2CkMYmYMZfY7qhBLVy7",
@@ -1137,12 +1137,12 @@
   {
     "tokenMint": "8xG8EcPSWr7aVd2DDSo4VSumNsqpdBSLcdHy387drK28",
     "voteAccount": "unRgBLTLNXdBmenHXNPAg3AMn3KWcV3Mk4eoZBmTrdk",
-    "share": 0
+    "share": 0.0027558021660606335
   },
   {
     "tokenMint": "CqZoyurEMNXsxeoB7KVju1ym2xPHEx2JzRDkYYihNL8T",
     "voteAccount": "F3scMRjzSvXUa7JoK2uwBjNsYGi5sM84sDzE7FfGBo6o",
-    "share": 0
+    "share": 0.0006981986642891469
   },
   {
     "tokenMint": "C2FQn9mAnkQWYj3VNc77xNRxu2uWnyPDitJ1SLbTRfRm",
